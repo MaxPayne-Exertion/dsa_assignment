@@ -1,8 +1,3 @@
-Here is the **raw Markdown documentation** for your sorting program. Save it as:
-
-```
-doc_8.md
-```
 
 ---
 

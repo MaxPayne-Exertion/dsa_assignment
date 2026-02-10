@@ -1,10 +1,3 @@
-Got it ✅ — you want **real Markdown syntax visible** (with `#`, `---`, etc.), not rendered text and not inside code fences.
-
-Here is the correct **raw Markdown** for `doc_3.md`.
-Copy this exactly into the file.
-
----
-
 # Documentation for Question 3
 
 ## Reverse Traversal of a Linked List Using Recursion

@@ -1,8 +1,4 @@
-Here is the **raw Markdown documentation** for your Dijkstra’s algorithm program. Save it as:
 
-```
-doc_7.md
-```
 
 ---
 

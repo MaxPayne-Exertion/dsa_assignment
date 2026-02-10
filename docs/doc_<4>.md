@@ -1,10 +1,4 @@
-Here is the **raw Markdown content** for:
 
-```
-doc_4.md
-```
-
-Copy this exactly into the file.
 
 ---
 
